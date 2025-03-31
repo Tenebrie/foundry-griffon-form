@@ -1,0 +1,31 @@
+{
+  "id": "tenebrie-griffon-form",
+  "title": "Griffon Form",
+  "description": "Compatibility shape for Untamed Form druid and Clawdancer Dedication.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Tenebrie",
+      "flags": {}
+    }
+  ],
+  "compatibility": {
+    "minimum": "9",
+    "verified": "12"
+  },
+  "packs": [
+    {
+      "name": "griffon-form",
+      "label": "Griffon Form",
+      "path": "packs/items",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "manifest": "https://github.com/tenebrie/foundry-griffon-form/-/raw/main/module.json",
+  "download": "https://gitlab.com/tenebrie/foundry-griffon-form/-/raw/main/tenebrie-griffon-form.zip"
+}
