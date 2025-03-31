@@ -2,7 +2,7 @@
   "id": "tenebrie-griffon-form",
   "title": "Griffon Form",
   "description": "Compatibility shape for Untamed Form druid and Clawdancer Dedication.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "authors": [
     {
       "name": "Tenebrie",
@@ -26,6 +26,6 @@
       }
     }
   ],
-  "manifest": "https://github.com/tenebrie/foundry-griffon-form/-/raw/main/module.json",
-  "download": "https://gitlab.com/tenebrie/foundry-griffon-form/-/raw/main/tenebrie-griffon-form.zip"
+  "manifest": "https://github.com/Tenebrie/foundry-griffon-form/raw/refs/heads/main/module.json",
+  "download": "https://github.com/Tenebrie/foundry-griffon-form/raw/refs/heads/main/tenebrie-griffon-form.zip"
 }

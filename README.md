@@ -1,3 +1,3 @@
-# My Content Module
+# Griffon Form
 
-A template for creating your own Foundry VTT content module.
+My little module, probably useless for you
